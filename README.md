@@ -2,9 +2,24 @@
 
 ### Ant-Ran
 
+## Description
+
 This theme is based on [Ant](https://github.com/EliverLara/Ant). Many thanks to [EliverLara](https://github.com/EliverLara).
 
 This dream is made for Ran. Now is for world.
+## What's different?
+
+Ant is a wonderful theme for GTK*, it's doing well in all respects.
+
+But the only problem is that its main color is red.
+
+Someone who prefers blue rather than red thinks it can look more grace if it can change the main color to blue.
+
+I know Ant has many different versions, like Ant-Dracula, Ant-Nebula, Ant-Bloody. and there is a theme between them whose main color is blue but it is a dark theme.
+
+So I made a new light theme base on Ant using blue for the main color.
+
+Hope you like it.
 
 #### Installation
 
