@@ -1,13 +1,14 @@
 ![](ant.png)
 
-### Ant-Ran
+## Ant-Ran
 
-## Description
+#### Description
 
 This theme is based on [Ant](https://github.com/EliverLara/Ant). Many thanks to [EliverLara](https://github.com/EliverLara).
 
 This dream is made for Ran. Now is for world.
-## What's different?
+
+#### What's different?
 
 Ant is a wonderful theme for GTK*, it's doing well in all respects.
 
